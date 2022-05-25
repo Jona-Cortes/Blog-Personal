@@ -1,0 +1,21 @@
+nav{
+          display: flex;
+          justify-content: space-between;
+          background-color: violet;
+          padding: 20px;
+}
+
+.logo{
+          width: 40px;
+          height: 43px;
+}
+
+button{
+          border-radius: 50%;
+          background-color: green;
+}
+
+#bootstrap{
+
+          background-color: grey;
+}
